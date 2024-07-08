@@ -14,6 +14,7 @@
     <mapping directory="$PROJECT_DIR$/../JetpackComposeCameraXShowcase" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Khalti-Payment-Integration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../KiranGpt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../MapOsmdroidKotlinExampl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../MapOsmdroidKotlinExample" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../MessengerClone" vcs="Git" />
